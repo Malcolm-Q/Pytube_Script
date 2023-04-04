@@ -8,3 +8,8 @@ Do you hate using the ever changing sketchy youtube video/audio downloader websi
 pyinstaller --onefile youtube_downloader.py
 ``` 
 will make a ~6mb distributable .exe
+
+Alternatively do:
+```
+python youtube_downloader.py
+```
